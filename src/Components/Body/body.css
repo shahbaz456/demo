@@ -1,0 +1,37 @@
+.mycard {
+    width: 280px;
+    padding: 0.8rem;
+    margin: 2rem;
+    text-align: center;
+    background-color: rgb(239 239 239);
+    font-family: sans-serif;
+    font-size: 15px;
+    transition: 300ms;
+  }
+  .mycard:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  button {
+    margin: 1rem;
+  }
+  .button {
+    background: #0069eb;
+    border-radius: 30px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 15px 30px;
+    text-decoration: none;
+  }
+  
+  .card {
+      border: none;
+    display: flex;
+    flex-direction: row !important;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+
+  

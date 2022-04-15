@@ -1,0 +1,28 @@
+.icons{
+    background: none;
+    border: none;
+    color: white;
+} 
+.logo{
+    width: 60px;
+    height: 60px;
+}
+.bg-light{
+    background: black !important;
+}
+.d-flex{
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-brand{
+    color: white !important;
+    display: flex;
+}
+.navbar{
+    padding: 0px !important;
+}
+.me-2{
+    height: fit-content;
+}

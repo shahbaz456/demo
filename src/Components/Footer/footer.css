@@ -1,0 +1,31 @@
+.my-5 {
+    margin-bottom: 0px !important;
+  }
+  .m-1 {
+    border-radius: 50%;
+    border: transparent;
+  }
+  .mt-3{
+      color: black !important;
+  }
+  .p-4{
+      background: black;
+  }
+  .p-3{
+      background-color: black !important;
+  }
+  .text-white {
+    color: #030303!important;
+}
+.number{
+    color: gold !important;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.text-footer{
+    color: white;
+}
+.p-3{
+    color: white;
+}
