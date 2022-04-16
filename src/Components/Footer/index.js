@@ -20,12 +20,7 @@ const Footer = () => {
             <div class="coontainer p-4 pb-0">
               <div className="number">
                 <h1>03430268456</h1>
-                <p>Monday-Friday 8:00AM-6:00PM EST</p>
-                <div>
-                  <button>
-                    <BsFillArrowUpSquareFill />
-                  </button>
-                </div>
+                <p className="week-day">Monday-Friday 8:00AM-6:00PM EST</p>
               </div>
 
               <section class="">

@@ -7,11 +7,11 @@ const Navbar = () => {
     <>
       <div className="container-fluid nav_bg">
         <div className="row">
-          <div className="col-10 ">
+          <div className="col-12 ">
             <nav className="navbar navbar-expand-lg navbar-light ">
               <div className="container-fluid">
                 <NavLink className="navbar-brand" to="/">
-                  Blockhain
+                  Demo
                 </NavLink>
                 <button
                   className="navbar-toggler"
@@ -70,6 +70,8 @@ const Navbar = () => {
                       </NavLink>
                     </li>
                   </ul>
+                </div>
+                <div className="quick-order">
                   <button className="order">Quick Order</button>
                 </div>
               </div>
